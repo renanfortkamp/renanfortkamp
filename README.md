@@ -90,7 +90,16 @@ height="40"/></a> <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
             height="40"
         />
     </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+        <img
+            src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+            alt="rabbitmq"
+            width="40"
+            height="40"
+        />
+    </a>
   </p>
+  
   
   </details>
 
