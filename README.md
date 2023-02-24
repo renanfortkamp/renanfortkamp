@@ -81,7 +81,16 @@ height="40"/></a> <a href="https://dotnet.microsoft.com/pt-br/" target="_blank">
             width="40"
             height="40"
         />
-    </a></p>
+    </a>
+  <a href="https://bitbucket.org/product/" target="_blank">
+        <img
+            src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg"
+            alt="bitbucket"
+            width="40"
+            height="40"
+        />
+    </a>
+  </p>
   
   </details>
 
