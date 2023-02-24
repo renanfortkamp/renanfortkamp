@@ -5,10 +5,11 @@
 </div>
   <div align="center">
   🔗 &nbsp;**Connect with me**
-<p align="left">
+
 <a href="https://linkedin.com/in/renanfortkamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renanfortkamp" height="30" width="40" /></a>
 <a href="https://instagram.com/renanfortt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renanfortkamp" height="30" width="40" /></a>
 </div>
+  <p align="left">
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary><br/><palign="left"><ahref="https://www.w3schools.com/css/"target="_blank">
 <img
